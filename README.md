@@ -1,6 +1,9 @@
 # 2019-nCoV
 A comprehensive key drug targets analysis for 2019-nCoV main protease.
 ## 冠状病毒感染过程
+### 1.吸附
+### 2.RNA复制
+### 3.新病毒组装
 <img src="https://github.com/pincher-chen/2019-nCoV/blob/master/virus_process.png" width="60%" align ="center" />
 
 [本图片源自](https://doi.org/10.26434/chemrxiv.11728983.v1)
