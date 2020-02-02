@@ -33,3 +33,7 @@ RNA依赖性RNA聚合酶（RdRp），参与病毒得转录和复制过程，参�
 ## 核衣壳蛋白-Nucleocapsid Phosphoprotein (Npro)
 
 ## 血管收缩转换酶相关的羧肽酶-Angiotensin-converting enzyme (ACE)-related carboxypeptidase, ACE2
+
+备注：
+
+[可参考的蛋白PDB结构](https://ghddi-ailab.github.io/Targeting2019-nCoV/nCov_Structures/)
