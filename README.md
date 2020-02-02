@@ -16,3 +16,5 @@ A comprehensive key drug targets analysis for 2019-nCoV main protease.
 ## 包膜蛋白-Envelope protein, E Protein (Epro)
 
 ## 核衣壳蛋白-Nucleocapsid Phosphoprotein (Npro)
+
+## 血管收缩转换酶相关的羧肽酶-Angiotensin-converting enzyme (ACE)-related carboxypeptidase, ACE2
