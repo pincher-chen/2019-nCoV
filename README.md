@@ -27,13 +27,17 @@ RNA依赖性RNA聚合酶（RdRp），参与病毒得转录和复制过程，参�
 [本图片源自](https://doi.org/10.1038/nrd.2015.37)
 ## 表面糖蛋白(突刺蛋白)-Surface Glycoprotein (Spike Protein, Spro)
 
-## 3CL水解酶（主蛋白酶）-3C-like proteinase, Main Protease (Mpro)
+## 3CL水解酶（主蛋白酶）-3C-like proteinase, Main Protease (3CLpro/Mpro)
+
+## 木瓜样蛋白酶- Papain-like protease (PLpro)
+
+## RNA聚合酶- RNA-dependent RNA polymerase (RdRp)
 
 ## 包膜蛋白-Envelope protein, E Protein (Epro)
 
 ## 核衣壳蛋白-Nucleocapsid Phosphoprotein (Npro)
 
-## 血管收缩转换酶相关的羧肽酶-Angiotensin-converting enzyme (ACE)-related carboxypeptidase, ACE2
+## 血管紧张素转换酶相关的羧肽酶-Angiotensin-converting enzyme (ACE)-related carboxypeptidase, ACE2
 
 备注：
 
