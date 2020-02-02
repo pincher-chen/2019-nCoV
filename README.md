@@ -2,10 +2,10 @@
 A comprehensive key drug targets analysis for 2019-nCoV main protease.
 <img src="https://github.com/pincher-chen/2019-nCoV/blob/master/main_pro_info.png" width="60%" align ="center" />
 
-## Surface Glycoprotein (Spike Protein)
+## 表面糖蛋白(突刺蛋白)-Surface Glycoprotein (Spike Protein, Spro)
 
-## 3C-like proteinase, Main Protease (Mpro)
+## 3CL水解酶（主蛋白酶）-3C-like proteinase, Main Protease (Mpro)
 
-## Envelope protein, E Protein
+## 包膜蛋白-Envelope protein, E Protein (Epro)
 
-## Nucleocapsid Phosphoprotein
+## 核衣壳蛋白-Nucleocapsid Phosphoprotein (Npro)
