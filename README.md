@@ -11,7 +11,7 @@ A comprehensive key drug targets analysis for 2019-nCoV main protease.
 
 RNA依赖性RNA聚合酶（RdRp），参与病毒得转录和复制过程，参与基因组和亚基因组RNA得合成，也是可以考虑得靶点。
 
-此外，Epro\MPro\NPro以及一些辅助蛋白不仅对病毒得组装是必须的，而且可能还具有抑制宿主免疫反应以促进病毒复制的额外功能。
+此外，Epro\NPro以及一些辅助蛋白不仅对病毒得组装是必须的，而且可能还具有抑制宿主免疫反应以促进病毒复制的额外功能。
 ### 5.装配与释放
 完成病毒复制和细胞外转移过程
 
@@ -19,7 +19,8 @@ RNA依赖性RNA聚合酶（RdRp），参与病毒得转录和复制过程，参�
 
 [本图片源自](https://doi.org/10.26434/chemrxiv.11728983.v1)
 
-其中包含的主要蛋白如下图所示：  
+其中包含的主要蛋白如下图所示： 
+
 <img src="https://github.com/pincher-chen/2019-nCoV/blob/master/main_pro_info.png" width="60%" align ="center" />
 
 [本图片源自](https://doi.org/10.1038/nrd.2015.37)
