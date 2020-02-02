@@ -1,9 +1,16 @@
 # 2019-nCoV
 A comprehensive key drug targets analysis for 2019-nCoV main protease.
-## 冠状病毒感染过程
-### 1.吸附
-### 2.RNA复制
-### 3.新病毒组装
+### 1.吸附（adsorption）
+冠状病毒突刺与受体蛋白ACE2接触.
+### 2. 穿入(penertration)
+病毒核酸或者感染性核衣壳穿过细胞进入胞浆
+### 3. 脱壳 （uncoating）
+病毒失去衣壳
+### 4.生物合成 （biosynthesis）
+病毒核酸复制，合成衣壳蛋白核包膜蛋白
+### 5.装配与释放
+完成病毒复制和细胞外转移过程
+
 <img src="https://github.com/pincher-chen/2019-nCoV/blob/master/virus_process.png" width="60%" align ="center" />
 
 [本图片源自](https://doi.org/10.26434/chemrxiv.11728983.v1)
